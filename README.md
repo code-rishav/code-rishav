@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1iaA0pLxgyOLiaudyBVm7v8BhpqDsPyZD/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
