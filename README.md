@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working on Java Development<br>☏ I'm looking to collaborate on Machine Learning<br>📒 I'm currently learning Data Structures and Algorithms<br>🔍 ASk me about DSA<br>
+🛠️ I'm currently working on Backend Development<br>☏ I'm looking to collaborate on Machine Learning<br>
 
 
 ## 🌐 Socials:
